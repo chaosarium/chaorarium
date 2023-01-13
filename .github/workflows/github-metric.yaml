@@ -71,5 +71,3 @@ jobs:
 
           repositories_affiliations: owner, collaborator, organization_member
           repositories_forks: yes
-
-          config_display: columns
