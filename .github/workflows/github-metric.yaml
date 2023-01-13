@@ -33,14 +33,14 @@ jobs:
           config_padding: 0%
           config_timezone: America/New_York
 
-          plugin_habits: yes
-          plugin_habits_facts: no
-          plugin_habits_charts: yes
-          plugin_habits_charts_type: classic
-          plugin_habits_days: 60
-          plugin_habits_from: 400
-          plugin_habits_languages_limit: 8
-          plugin_habits_languages_threshold: 0%
+          # plugin_habits: yes
+          # plugin_habits_facts: no
+          # plugin_habits_charts: yes
+          # plugin_habits_charts_type: classic
+          # plugin_habits_days: 60
+          # plugin_habits_from: 400
+          # plugin_habits_languages_limit: 8
+          # plugin_habits_languages_threshold: 0%
 
           plugin_isocalendar: yes
           plugin_isocalendar_duration: half-year
