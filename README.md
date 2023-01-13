@@ -1,6 +1,3 @@
-# Hello World
-:)
-
-There is nothing here... for now
+Hi |ω・)ノ
 
 ![](https://raw.githubusercontent.com/chaosarium/chaosarium/output/github-metrics.svg)
