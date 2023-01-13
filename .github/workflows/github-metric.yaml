@@ -68,3 +68,6 @@ jobs:
           output_action: commit
           committer_branch: "output"
           committer_message: "action: update metrics"
+
+          repositories_affiliations: owner, collaborator, organization_member
+          repositories_forks: yes
