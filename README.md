@@ -17,8 +17,9 @@ You're looking at `Name.acceptAll(["chaosarium", "Lómenoirë", "Leon", "Liang"]
 ### Recent Projects
 
 - [Graph-based CMU Course Explorer](https://github.com/chaosarium/CMU-Course-Graph)
-- (Something to do with λ)
+- (Evil plan with λ et al. and their evil fun)
 - [C0VM-ts](https://github.com/MarkChenYutian/C0VM-ts)
+- (4Fe + 3O2 → 2Fe2O3)
 - [Quartz Plus](https://github.com/chaosarium/quartz-plus)
 - [PhotoArchive](https://github.com/chaosarium/arxive)
 
