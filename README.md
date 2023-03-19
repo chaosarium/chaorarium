@@ -14,6 +14,16 @@ You're looking at `Name.acceptAll(["chaosarium", "Lómenoirë", "Leon", "Liang"]
 
 ~~([link to best programming language](https://www.rust-lang.org/))~~
 
+### Random
+
+```c
+// allocates a block of time in seconds, returning a pointer to the allocated time, or returns NULL if no time is available
+void* talloc(size_t n); // sidenote: this almost always returns NULL
+
+// allocates a block of time in seconds, returning a pointer to the allocated time, or raise an error is no time is available
+void* xtalloc(size_t n);
+```
+
 ### Recent Projects
 
 - ACHROM. III
