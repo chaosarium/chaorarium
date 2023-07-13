@@ -12,8 +12,6 @@ You're looking at `Name.acceptAll(["chaosarium", "Lómenoirë", "Leon", "Liang"]
 
 [![Website](https://img.shields.io/website.svg?label=WEBSITE&style=for-the-badge&up_color=444444&up_message=VISIT&labelColor=222222&url=https%3A%2F%2Fchaosarium.xyz&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSJub25lIiBkPSJNMCAwSDI0VjI0SDB6Ii8+PHBhdGggZD0iTTYgMmMyLjY5IDAgNS4wMjQgMS41MTcgNi4xOTcgMy43NDFDMTMuMzc0IDQuMDgzIDE1LjMxIDMgMTcuNSAzSDIxdjIuNWMwIDMuNTktMi45MSA2LjUtNi41IDYuNUgxM3YxaDV2N2MwIDEuMTA1LS44OTUgMi0yIDJIOGMtMS4xMDUgMC0yLS44OTUtMi0ydi03aDV2LTJIOWMtMy44NjYgMC03LTMuMTM0LTctN1YyaDR6bTEwIDEzSDh2NWg4di01em0zLTEwaC0xLjVDMTUuMDE1IDUgMTMgNy4wMTUgMTMgOS41di41aDEuNWMyLjQ4NSAwIDQuNS0yLjAxNSA0LjUtNC41VjV6TTYgNEg0YzAgMi43NjEgMi4yMzkgNSA1IDVoMmMwLTIuNzYxLTIuMjM5LTUtNS01eiIgZmlsbD0icmdiYSgyNTUsMjU1LDI1NSwxKSIvPjwvc3ZnPg==)](https://chaosarium.xyz) [![About](https://img.shields.io/website.svg?label=About%20Me&style=for-the-badge&up_color=444444&up_message=VISIT&labelColor=222222&url=https%3A%2F%2Fchaosarium.xyz/About-the-Creator&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSJub25lIiBkPSJNMCAwaDI0djI0SDB6Ii8+PHBhdGggZD0iTTIwIDIySDZhMyAzIDAgMCAxLTMtM1Y1YTMgMyAwIDAgMSAzLTNoMTRhMSAxIDAgMCAxIDEgMXYxOGExIDEgMCAwIDEtMSAxem0tMS0ydi0ySDZhMSAxIDAgMCAwIDAgMmgxM3pNNSAxNi4xN2MuMzEzLS4xMS42NS0uMTcgMS0uMTdoMTNWNEg2YTEgMSAwIDAgMC0xIDF2MTEuMTd6TTEyIDEwYTIgMiAwIDEgMSAwLTQgMiAyIDAgMCAxIDAgNHptLTMgNGEzIDMgMCAwIDEgNiAwSDl6IiBmaWxsPSJyZ2JhKDI1NSwyNTUsMjU1LDEpIi8+PC9zdmc+)](https://chaosarium.xyz/About-the-Creator) [![Website](https://img.shields.io/website.svg?label=PORTFOLIO&style=for-the-badge&up_color=444444&up_message=VISIT&labelColor=222222&url=https%3A%2F%2Fchaosarium.xyz/portfolio&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSJub25lIiBkPSJNMCAwaDI0djI0SDB6Ii8+PHBhdGggZD0iTTggOHY4aDhWOEg4ek02IDZoMTJ2MTJINlY2em0wLTRoMnYzSDZWMnptMCAxN2gydjNINnYtM3pNMiA2aDN2MkgyVjZ6bTAgMTBoM3YySDJ2LTJ6TTE5IDZoM3YyaC0zVjZ6bTAgMTBoM3YyaC0zdi0yek0xNiAyaDJ2M2gtMlYyem0wIDE3aDJ2M2gtMnYtM3oiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMSkiLz48L3N2Zz4=)](https://chaosarium.xyz/portfolio) [![Blog](https://img.shields.io/website.svg?label=BLOG&style=for-the-badge&up_color=444444&up_message=VISIT&labelColor=222222&url=https%3A%2F%2Fchaosarium.xyz/tags/blog/&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSJub25lIiBkPSJNMCAwaDI0djI0SDB6Ii8+PHBhdGggZD0iTTIwIDIySDRhMSAxIDAgMCAxLTEtMVYzYTEgMSAwIDAgMSAxLTFoMTZhMSAxIDAgMCAxIDEgMXYxOGExIDEgMCAwIDEtMSAxem0tMS0yVjRINXYxNmgxNHpNNyA2aDR2NEg3VjZ6bTAgNmgxMHYySDd2LTJ6bTAgNGgxMHYySDd2LTJ6bTYtOWg0djJoLTRWN3oiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMSkiLz48L3N2Zz4=)](https://chaosarium.xyz/tags/blog/) [![Photography](https://img.shields.io/website.svg?label=PHOTOGRAPHY&style=for-the-badge&up_color=444444&up_message=VISIT&labelColor=222222&url=https%3A%2F%2Fphotoarchive.chaosarium.xyz&logo=data:image/svg+xml;base64,PHN2ZyB4bWxucz0iaHR0cDovL3d3dy53My5vcmcvMjAwMC9zdmciIHZpZXdCb3g9IjAgMCAyNCAyNCIgd2lkdGg9IjI0IiBoZWlnaHQ9IjI0Ij48cGF0aCBmaWxsPSJub25lIiBkPSJNMCAwaDI0djI0SDB6Ii8+PHBhdGggZD0iTTIgNmMwLS41NTIuNDU1LTEgLjk5Mi0xaDE4LjAxNmMuNTQ4IDAgLjk5Mi40NDUuOTkyIDF2MTRjMCAuNTUyLS40NTUgMS0uOTkyIDFIMi45OTJBLjk5NC45OTQgMCAwIDEgMiAyMFY2em0yIDF2MTJoMTZWN0g0em0xMCA5YTMgMyAwIDEgMCAwLTYgMyAzIDAgMCAwIDAgNnptMCAyYTUgNSAwIDEgMSAwLTEwIDUgNSAwIDAgMSAwIDEwek00IDJoNnYySDRWMnoiIGZpbGw9InJnYmEoMjU1LDI1NSwyNTUsMSkiLz48L3N2Zz4=)](https://photoarchive.chaosarium.xyz) [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2.svg?style=for-the-badge&logo=LinkedIn&logoColor=white)](https://www.linkedin.com/in/leon-lu-904ab3228/) [![Spotify](https://img.shields.io/badge/Spotify-1DB954.svg?style=for-the-badge&logo=Spotify&logoColor=white)](https://open.spotify.com/user/614vl52yown3ie63z4rs4hsap?si=66272bf23e6745b4)
 
-~~([link to best programming language](https://www.rust-lang.org/))~~
-
 ### Random
 
 ```c
@@ -26,13 +24,11 @@ void* xtalloc(size_t n);
 
 ### Recent Projects
 
-- ACHROM. III
-- [Graph-based CMU Course Explorer](https://github.com/chaosarium/CMU-Course-Graph)
-- (Evil plan with λ et al. and their evil fun)
+- Something code-named ACHROM. III viz. turning `kʰv̩ʷø˥˧` into `kʰwan¹`
 - [C0VM-ts](https://github.com/MarkChenYutian/C0VM-ts)
-- (4Fe + 3O2 → 2Fe2O3)
+- (Playing with Dr. Evil's bomb)
 - [Quartz Plus](https://github.com/chaosarium/quartz-plus)
-- [PhotoArchive](https://github.com/chaosarium/arxive)
+- [PhotoArchive](https://github.com/chaosarium/PhotoArchive)
 
 ### Some Stats
 
