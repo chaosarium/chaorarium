@@ -14,17 +14,15 @@ You're looking at `Name.acceptAll(["chaosarium", "Lómenoirë", "Leon", "Liang"]
 
 ### Random
 
-```c
-// allocates a block of time in seconds, returning a pointer to the allocated time, or returns NULL if no time is available
-void* talloc(size_t n); // sidenote: this almost always returns NULL
-
-// allocates a block of time in seconds, returning a pointer to the allocated time, or raise an error is no time is available
-void* xtalloc(size_t n);
+```sml
+fun todolen ([] : todo list) : int = 0
+  | todolen (t::ts : todo list) = 1 + todolen(t::ts)
 ```
 
 ### Recent Projects
 
 - Something code-named ACHROM. III viz. turning `kʰv̩ʷø˥˧` into `kʰwan¹`
+- [Influx](https://chaosarium.xyz/2022-07-18-towards-an-integrated-content-based-language-learning-environment-an-exploratory-proposal/), an intergrated language learning environment, preview coming out soon
 - [C0VM-ts](https://github.com/MarkChenYutian/C0VM-ts)
 - (Playing with Dr. Evil's bomb)
 - [Quartz Plus](https://github.com/chaosarium/quartz-plus)
