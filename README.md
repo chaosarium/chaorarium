@@ -19,12 +19,10 @@ fun todolen ([] : todo list) : int = 0
   | todolen (t::ts : todo list) = 1 + todolen(t::ts)
 ```
 
-### Recent Projects
+### Some Projects
 
 - Something code-named ACHROM. III viz. turning `kʰv̩ʷø˥˧` into `kʰwan¹`
-- [Influx](https://chaosarium.xyz/2022-07-18-towards-an-integrated-content-based-language-learning-environment-an-exploratory-proposal/), an intergrated language learning environment, preview coming out soon
-- [C0VM-ts](https://github.com/MarkChenYutian/C0VM-ts)
-- (Playing with Dr. Evil's bomb)
+- [Influx](https://chaosarium.xyz/2022-07-18-towards-an-integrated-content-based-language-learning-environment-an-exploratory-proposal/), an integrated language learning environment, preview coming out soon
 - [Quartz Plus](https://github.com/chaosarium/quartz-plus)
 - [PhotoArchive](https://github.com/chaosarium/PhotoArchive)
 
