@@ -22,7 +22,7 @@ fun todolen ([] : todo list) : int = 0
 ### Some Projects
 
 - Something code-named ACHROM. III viz. turning `kʰv̩ʷø˥˧` into `kʰwan¹`
-- [Influx](https://chaosarium.xyz/2022-07-18-towards-an-integrated-content-based-language-learning-environment-an-exploratory-proposal/), an integrated language learning environment, preview coming out soon
+- [Influx](https://github.com/chaosarium/Influx), an integrated language learning environment
 - [Quartz Plus](https://github.com/chaosarium/quartz-plus)
 - [PhotoArchive](https://github.com/chaosarium/PhotoArchive)
 
