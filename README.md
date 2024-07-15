@@ -18,7 +18,7 @@ fun todolen ([] : todo list) : int = 0
   | todolen (t::ts : todo list) = 1 + todolen(t::ts)
 ```
 
-### Some projects
+### Some weird projects
 
 Have been or had been (possibly slowly) working on...
 
